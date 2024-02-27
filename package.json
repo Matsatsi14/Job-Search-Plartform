@@ -1,0 +1,12 @@
+{
+  "name": "job-search-plartform",
+  "version": "1.0.0",
+  "description": "🚀 Full-stack job search web app with React.js & Node.js. Personalized dashboards, job listings, and application tracking. Secure user authentication. Empower your job search! #WebDev #React #NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
